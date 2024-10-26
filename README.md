@@ -23,15 +23,30 @@ This project provides a complete guide to setting up and managing an OpenVPN ser
 - **Firewall and Security Integration: Integrates with Linux firewall settings to control and monitor traffic, ensuring only authorized connections access the VPN.**
 
 ## Tools and Technologies
-- **OpenVPN: Open-source VPN solution for secure and encrypted network access.**
-- **EasyRSA: Command-line utility for managing a Public Key Infrastructure (PKI) and generating certificates and keys.**
-- **Linux: Operating system for hosting the OpenVPN server (e.g., Ubuntu, Debian, CentOS).**
-- **UFW (Uncomplicated Firewall): Firewall management tool to control and monitor network traffic (for Ubuntu users).**
-- **iptables: Low-level firewall utility for managing packet filtering and NAT (for Linux distributions that don’t use UFW).**
-- **OpenSSL: Toolkit for cryptography, used by EasyRSA for creating secure certificates and encryption.**
+- **OpenVPN**: Open-source VPN solution for secure and encrypted network access.
+- **EasyRSA**: Command-line utility for managing a Public Key Infrastructure (PKI) and generating certificates and keys.
+- **Linux**: Operating system for hosting the OpenVPN server (e.g., Ubuntu, Debian, CentOS).**
+- **UFW** (Uncomplicated Firewall): Firewall management tool to control and monitor network traffic (for Ubuntu users).
+- **iptables**: Low-level firewall utility for managing packet filtering and NAT (for Linux distributions that don’t use UFW).
+- **OpenSSL**: Toolkit for cryptography, used by EasyRSA for creating secure certificates and encryption.
 
 ## Lab Environment Setup
 
 ### Prerequisites
 
-[Cybersecurity Homelab Setup](https://github.com/El0424/Cybersecurity-HomeLab-Setup-Virtual-Network-with-Multiple-Machines)
+- [Cybersecurity Homelab Setup](https://github.com/El0424/Cybersecurity-HomeLab-Setup-Virtual-Network-with-Multiple-Machines)
+- **Basic Linux Knowledge**: A fundamental understanding of Linux commands and terminal operations is necessary.
+- **Linux System**: A Linux-based system, preferably Ubuntu, is required for the server setup.
+- **Root or Sudo access**: Administrative privileges are needed to perform system-level configurations.
+- **Domain Name or Static IP**: A domain name or a static IP address is essential for clients to connect to the VPN server reliably.
+- 
+### Installation and Setup
+
+
+
+
+
+
+
+
+  
